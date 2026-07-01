@@ -1,6 +1,6 @@
 # Analysis Workflow: Internship Arthur
 
-⚠️ **IMPORTANT**: This notebook is designed for **analyzing pre-processed data only**. It requires data that has already been processed, synchronized, and aligned. It cannot be used directly with raw experimental data.
+⚠️ **IMPORTANT**: This notebook is designed for **analyzing pre-processed data only**. It requires data that has already been processed, synchronized, and aligned. It cannot be used directly with raw experimental data. 
 
 ## Overview
 
